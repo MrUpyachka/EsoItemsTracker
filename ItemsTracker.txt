@@ -1,9 +1,9 @@
-## Title:  |c99004cItemsTracker|r V: R1
+## Title:  |c99004cItemsTracker|r V: R1.1
 ## Description: Allows to track number of items in floating window.
 ## Author: logmeinplease
 ## SavedVariables: ItemsTracker_settings ItemDataProvider_settings
 ## APIVersion: 100015 100016 100017
-## Version: 1
+## Version: 1.1
 ##
 ## This Add-on is not created by, affiliated with or sponsored by ZeniMax Media Inc. or its affiliates.
 ## The Elder Scrolls® and related logos are registered trademarks or trademarks of ZeniMax Media Inc. in the United States and/or other countries.
@@ -54,6 +54,7 @@ libs\FloatingListLib\UI\Widgets\InfoContainer.lua
 libs\FloatingListLib\UI\UiTools.lua
 libs\FloatingListLib\UI\UiFactory.lua
 libs\FloatingListLib\UI\SettingsMenu.lua
+libs\FloatingListLib\UI\WindowSettingsMenu.lua
 libs\FloatingListLib\UI\UiController.lua
 libs\FloatingListLib\UI\WindowPresenter.lua
 

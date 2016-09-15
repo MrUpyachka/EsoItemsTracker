@@ -7,4 +7,5 @@ end
 --- Removes all existing providers.
 function Up_ItemsTracker.clean()
     Up_ItemsTracker.ProvidersController:clean()
+    Up_ItemsTracker.cleanHistory()
 end
